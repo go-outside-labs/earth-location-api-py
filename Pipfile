@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pytz = "*"
+pydantic = "*"
+fastapi = "*"
+geopy = "*"
+tzwhere = "*"
+uvicorn = "*"
+timezonefinder = "*"
+tox = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"

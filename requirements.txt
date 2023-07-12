@@ -1,0 +1,6 @@
+pytz
+pydantic
+fastapi
+geopy
+tzwhere
+uvicorn
